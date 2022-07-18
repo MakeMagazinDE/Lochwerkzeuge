@@ -5,7 +5,7 @@ Maker Media GmbH
 
 # Lochwerkzeuge für hängende Löcher
 
-### Mit diesen Werkzeugen könnt ihr hängende Löcher in eure CAD-Modelle stanzen, die anschließend beim 3D-Drucken keine Stützen erfordern.
+### Mit diesen Werkzeugen könnt ihr Senkungen mit hängenden Löcher in eure CAD-Modelle stanzen, die anschließend beim 3D-Drucken keine Stützen erfordern.
 
 ![Picture](https://github.com/MakeMagazinDE/Lochwerkzeuge/blob/main/12_b.png)
 
