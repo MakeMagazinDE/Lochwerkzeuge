@@ -3,11 +3,10 @@
 Maker Media GmbH
 *** 
 
-# Lochwerkzeuge
-zum Stanzen
+# Lochwerkzeuge für hängende Löcher
 
-### Dieser Geigerzähler checkt die Umgebung auf Beta- und Gammastrahlung und schlägt bei Überschreiten eines Grenzwerts Alarm.
+### Mit diesen Werkzeugen könnt ihr hängende Löcher in eure CAD-Modelle stanzen, die anschließend beim 3D-Drucken keine Stützen erfordern.
 
 ![Picture](https://github.com/MakeMagazinDE/Geigerzaehler/blob/main/Bild17.JPG)
 
-Den Artikel mit der Bauanleitung gibt es in der **[Make-Ausgabe 3/22 ab Seite 8](https://www.heise.de/select/make/2022/3/2207009291193178836)** zu lesen. 
+Den dazugehörigen Artikel gibt es in der **[Make-Ausgabe 4/22 ab Seite 92](https://www.heise.de/select/make/2022/4/2218007274793818044)** zu lesen. 
