@@ -5,7 +5,7 @@ Maker Media GmbH
 
 # Lochwerkzeuge für hängende Löcher
 
-### Mit diesen Werkzeugen könnt ihr Senkungen mit hängenden Löcher in eure CAD-Modelle boolen, die anschließend beim 3D-Drucken keine Stützen erfordern.
+### Mit diesen Werkzeugen könnt ihr Senkungen mit hängenden Löchern in eure CAD-Modelle boolen, die anschließend beim 3D-Drucken keine Stützen erfordern.
 
 Ihr findet in dem Ordner CAD-Modelle vorgefertigte Werkzeuge in den Formaten IGS, STP, STL als Mesh und SCAD. Letzteres ermöglicht euch, das Werkzeug in OpenSCAD parametrisch anzupassen und anschließend z.B. als STL oder im CSG-Format zu exportieren, das von FreeCAD gelesen werden kann. Von dort aus ist auch ein Export in IGS oder STP möglich, um die Datei mit Programmen zu verwenden, die CSG nicht importieren können.
 
